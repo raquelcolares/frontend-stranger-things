@@ -31,16 +31,19 @@ This repository shows my project during the Front-end Week by Digital Innovation
     - Introduction to Firebase
     - Integration with Firebase
     
-    
+
+
 ### My project
+
 
 **Link** - https://stranger-things-804db9.netlify.app/
 
 
 ### QR Code
 
+
 <img src="https://github.com/raquelcolares/frontend-stranger-things/blob/main/QR%20Code/QR%20Code%20-%20Stranger%20Things.png" width="150">
 
 
-#### References
+### References
 **Digital Innovation One** - https://www.dio.me/
